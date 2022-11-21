@@ -1,0 +1,7 @@
+{
+    "MONGODB_URI": "mongodb://localhost:27017/mydb",
+    "PORT": 3100,
+    "APPID": "myWebApplicationUsingReact",
+    "KEY": "welcome2BC@!",
+    "VALIDITY": 360000
+}
